@@ -11,3 +11,5 @@ curl --location 'https://au8b318jo9.execute-api.us-east-1.amazonaws.com/auth' \
     "password": "Primeiro@123"
 }' 
 ```
+
+Desenho arquitetural (WIP)
